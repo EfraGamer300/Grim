@@ -1,8 +1,12 @@
-# GrimAC main configuration
-# Source code: https://github.com/MWHunter/Grim
-# Copyright 2025 DefineOutside and contributors, Licensed under GPLv3.
+# WolfAC - WolfNetwork Edition (fork of GrimAC)
+# Exclusively customized for WolfNetwork servers.
+# Upstream: https://github.com/GrimAnticheat/Grim (GPLv3)
+# Fork: https://github.com/EfraGamer300/Grim
+# No official support from GrimAnticheat. Contact WolfNetwork staff.
 # Modified binaries, or plugins with copied grim code, must be private,
 # or with full source code available to buyers at no additional cost.
+
+prefix: "&bWolfNetwork &8»"
 
 alerts:
     # In addition to broadcasting alerts to players, should they also be sent to the console?

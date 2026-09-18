@@ -133,10 +133,10 @@ dependencies {
 }
 
 bukkit {
-    name = "GrimAC"
-    author = "GrimAC"
+    name = "WolfAC"
+    author = "WolfNetwork"
     main = "ac.grim.grimac.platform.bukkit.GrimACBukkitLoaderPlugin"
-    website = "https://grim.ac/"
+    website = "https://github.com/EfraGamer300/Grim"
     apiVersion = "1.13"
     foliaSupported = true
 

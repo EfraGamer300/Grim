@@ -1,5 +1,15 @@
 <div align="center">
- <h1>GrimAC</h1>
+  <h1>WolfAC — WolfNetwork Edition</h1>
+  <p><b>Fork exclusivo para os servidores da WolfNetwork, baseado no GrimAC.</b></p>
+
+> [!IMPORTANT]
+> Esta versão (`EfraGamer300/Grim`) é feita exclusivamente para os servidores da **WolfNetwork**.
+> Sem suporte oficial do GrimAnticheat. Upstream: https://github.com/GrimAnticheat/Grim (GPLv3).
+> Veja `WOLFNETWORK.md` para detalhes.
+</div>
+
+<div align="center">
+  <h1>GrimAC (upstream)</h1>
 
  <div>
   <a href="https://github.com/GrimAnticheat/Grim/actions/workflows/gradle-publish.yml">
