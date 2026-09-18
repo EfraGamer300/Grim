@@ -166,6 +166,16 @@ bukkit {
     )
 
     permissions {
+        register("wolfac.checkmods") {
+            description = "Request mod list from a player's WolfMOD client"
+            default = Permission.Default.OP
+        }
+
+        register("grim.checkmods") {
+            description = "Request mod list from a player's WolfMOD client (alias)"
+            default = Permission.Default.OP
+        }
+
         register("grim.alerts") {
             description = "Receive alerts for violations"
             default = Permission.Default.OP
